@@ -1,0 +1,2 @@
+
+This is a readme file. This is is a newly created file from the git bash terminal.
